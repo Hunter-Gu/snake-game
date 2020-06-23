@@ -1,4 +1,4 @@
-import { Pos } from './snake';
+import { Pos } from './pos';
 
 export function random(range: number) {
   return Math.round(Math.random() * range);
